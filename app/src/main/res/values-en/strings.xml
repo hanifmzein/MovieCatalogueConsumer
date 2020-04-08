@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Favorite Catalogue</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="detail_movie">Loading...</string>
+    <string name="detail_tv_show">Loading...</string>
+    <string name="overview">Overview</string>
+    <string name="release">Release</string>
+    <string name="tab_text_movie">Movie</string>
+    <string name="tab_text_tvshow">Tv Show</string>
+    <string name="title">Favorite Catalogue</string>
+    <string name="user_score">User Score</string>
+</resources>

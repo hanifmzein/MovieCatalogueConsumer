@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Favorit</string>
+    <string name="change_language_settings">Ubah Setingan Bahasa</string>
+    <string name="detail_movie">Memuat...</string>
+    <string name="detail_tv_show">Memuat...</string>
+    <string name="overview">Sinopsis</string>
+    <string name="release">Rilis</string>
+    <string name="tab_text_movie">Film</string>
+    <string name="tab_text_tvshow">Acara TV</string>
+    <string name="title">Katalog Favorit</string>
+    <string name="user_score">Nilai Pengguna</string>
+</resources>
